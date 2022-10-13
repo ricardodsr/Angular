@@ -1,2 +1,4 @@
 # Angular
- Basic Notions
+ AngularJS é um framework open-source de desenvolvimento front-end que possibilita o desenvolvimento de aplicações web, com foco em simplificar tanto a codificação quanto o processo de teste. Além disso, é possível integrá-lo com bibliotecas famosas como o Bootstrap, D3.js e o Apache Cordova (ou PhoneGap), ajudando a acelerar esse tipo de codificação como nunca antes tivemos.
+
+O AngularJS também permite aos desenvolvedores web fazer uso da linguagem de marcação HTML para definir associações de dados, validações, além de response handlers para lidar com as ações do usuário em um formato declarativo que também contribui para essa mesma aceleração. Com tudo isso em conjunto, a maior consequência é, de longe, o crescimento e enriquecimento das aplicações cada vez mais ricas em funcionalidades e recursos.
