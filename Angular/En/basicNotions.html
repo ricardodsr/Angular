@@ -1,6 +1,8 @@
 // AngularJS is a JavaScript framework. It is a library written in JavaScript.
 // AngularJS is distributed as a JavaScript file, and can be added to a web page with a script tag:
 // <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>
+// AngularJS is also available in the open source folder of the AngularJS website.
+
 
 ///////////////////////////////////
 // AngularJS Extends HTML
@@ -71,6 +73,20 @@
 </html>
 
 // AngularJS numbers are like JavaScript numbers:
+<!DOCTYPE html>
+<html>
+  <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>
+  <body>
+    <div ng-app="">
+      <p>Number: <input type="number" ng-model="number"></p>
+      <p>{{number}}</p>
+      </div>
+      </body>
+      </html>
+    </div>
+  </body>
+</html>
+
 <div ng-app="" ng-init="quantity=1;cost=5">
   <p>Total in dollar: {{ quantity * cost }}</p>
 </div>
